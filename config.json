@@ -1,5 +1,5 @@
 {
-  "kill": true,
+  "kill": false,
   "minVersion": "2.0.0",
   "sunsetAfter": "2026-04-01T00:00:00Z"
 }
